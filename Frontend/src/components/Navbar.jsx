@@ -27,7 +27,7 @@ const Navbar = ({ user, logout }) => {
               border border-blue-400/30
               shadow-lg
             ">
-              Complaint Management System
+              Smart Grievance System
             </span>
           </h1>
 
